@@ -44,3 +44,20 @@ nav li :hover{
     background-color: rgb(212, 195, 195);
     color: black;
 }
+.navfooter ul{
+    background-color: rgb(33, 108, 221);
+    text-align: center;
+    color: whitesmoke;
+    list-style-type: none;
+}
+.navfooter a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    width: 150px;
+}
+
+.navfooter li :hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
